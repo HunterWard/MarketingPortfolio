@@ -1,5 +1,7 @@
 # MarketingPortfolio
-Some of the advertising materials I've created. *Had little to no graphic design or marketing experience when hired*
+Some of the advertising materials I've created. 
+
+*Had little to no graphic design or marketing experience when hired*
 
 ## Rental Catalog
 Catalog made in Adobe Indesign which contains most of the products available to rent.  Was given to many companies in digital and print formats throughout the midwest.  
